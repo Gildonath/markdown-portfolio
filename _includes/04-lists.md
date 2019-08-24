@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Pull requests
+- aren't always needed to edit
+- files I think
